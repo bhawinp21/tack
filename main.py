@@ -10,7 +10,7 @@ def start_command(update, context):
 def vaccine_command(update, context):
 	a =5
 	while a>0:
-		time.sleep(1500)
+		time.sleep(15)
 		while a >0:
 				a=a+1
 				time.sleep(3)
